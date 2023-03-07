@@ -1,6 +1,3 @@
-![GitHub stars](https://img.shields.io/github/stars/viettiennguyen029/nft-collections?style=social)
-![GitHub forks](https://img.shields.io/github/forks/viettiennguyen029/nft-collections?style=social)
-![GitHub issues](https://img.shields.io/github/issues/viettiennguyen029/nft-collections?style=social)
 
 # nft-collections
 **A fullstack dApp NFT collection and store its metadata on IPFS**
